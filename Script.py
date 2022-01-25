@@ -8,7 +8,7 @@ It's very easy just <a href='https://t.me/moviemasala_request'>CLICK ME</a> and 
     ABOUT_TXT = """
    𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ 𝐉𝐨𝐡𝐧 𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣 ❱═❍⊱❁۪۪
+╔════❰ ADVERT MEDIA BOT ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/advertautofilterbot"> ADVERT MEDIA BOT </a>
 ║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁- <a href="https://t.me/ADVERT4U_BOT"> 𝔹𝕠𝕤𝕤 </a>
