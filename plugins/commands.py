@@ -40,9 +40,9 @@ async def start(client, message):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/advertautofilterbot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Group', url='https://t.me/moviebus2')
+            InlineKeyboardButton('Group', url='https://t.me/moviemasala_request')
             ],[
-            InlineKeyboardButton('Channel', url='https://t.me/+AMHw_K1wvOM3MTU9')
+            InlineKeyboardButton('Channel', url='https://t.me/Moviemasala2_0')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -83,9 +83,9 @@ async def start(client, message):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/Jd_73_bot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Group', url='https://t.me/moviebus2')
+             InlineKeyboardButton('Group', url='https://t.me/moviemasala_request')
             ],[
-            InlineKeyboardButton('Channel', url='https://t.me/+AMHw_K1wvOM3MTU9')
+            InlineKeyboardButton('Channel', url='https://t.me/Moviemasala2_0')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
