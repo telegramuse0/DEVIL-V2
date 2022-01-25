@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 🤞{},
 𝙼𝚢 𝚗𝚊𝚖𝚎 , <a href='https://t.me/advertautofilterbot'>ADVERT MEDIA BOT</a>, 
-𝙸𝚝'𝚜 𝚟𝚎𝚛𝚢 𝚎𝚊𝚜𝚢 𝚓𝚞𝚜𝚝 <a href='https://t.me/moviemasala_request'>CLICK ME</a> and type any Movies\ Webseries name, 𝚃𝚑𝚊𝚝𝚜 𝚊𝚕𝚕 𝙸'𝚕𝚕 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚟𝚒𝚎𝚜 𝚝𝚑𝚎𝚛𝚎 👿
+It's very easy just <a href='https://t.me/moviemasala_request'>CLICK ME</a> and type any Movies or Webseries name, that's it i provide your request.
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
@@ -10,7 +10,7 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ 𝐉𝐨𝐡𝐧 𝐃𝐮𝐫𝐚𝐢𝐫𝐚𝐣 ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/Jd_73_bot"> ADVERT MEDIA BOT </a>
+║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/advertautofilterbot"> ADVERT MEDIA BOT </a>
 ║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁- <a href="https://t.me/ADVERT4U_BOT"> 𝔹𝕠𝕤𝕤 </a>
 ║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
@@ -252,8 +252,8 @@ This module only works for my admins
     STATUS_TXT = """<b>Total Files:</b> <code>{}</code>
 <b>Total Users:</b> <code>{}</code>
 <b>Total Chats:</b> <code>{}</code>
-<b>Used Storage:</b> <code>{}</code> MiB
-<b>Free Storage:</b> <code>{}</code> MiB"""
+<b>Used Storage:</b> <code>{}</code>
+<b>Free Storage:</b> <code>{}</code> """
 
     FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
 
