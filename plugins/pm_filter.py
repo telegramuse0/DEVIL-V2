@@ -458,10 +458,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('status', callback_data='stats'),
             InlineKeyboardButton('source', callback_data='source')
             ],[
-            InlineKeyboardButton('search movie', switch_inline_query_current_chat='')
-            ],[
-            InlineKeyboardButton('help & commands', callback_data='help')
-            ],[
             InlineKeyboardButton('☆ Back', callback_data='start'),
             InlineKeyboardButton('Close ✧', callback_data='close_data')
         ]]
