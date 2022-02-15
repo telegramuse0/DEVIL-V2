@@ -39,9 +39,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/advertautofilterbot?startgroup=true')
             ],[
-            InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Group', url='https://t.me/moviemasala_request')
-            ],[
+            InlineKeyboardButton('Group', url='https://t.me/moviemasala_request'),
             InlineKeyboardButton('Channel', url='https://t.me/Moviemasala2_0')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
@@ -82,9 +80,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/advertautofilterbot?startgroup=true')
             ],[
-            InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-             InlineKeyboardButton('Group', url='https://t.me/moviemasala_request')
-            ],[
+            InlineKeyboardButton('Group', url='https://t.me/moviemasala_request'),
             InlineKeyboardButton('Channel', url='https://t.me/Moviemasala2_0')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
