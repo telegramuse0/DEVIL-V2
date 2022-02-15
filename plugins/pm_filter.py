@@ -127,7 +127,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('IF YOU DO NOT RECEIVE THE MOVIE/SERIES EVEN AFTER ENTERING THE CORRECT NAME \nINFORM ADMIN IN THIS FORMAT TYPE \n👉@ADMIN #REQUEST MOVIE/SERIES NAME+LANG+YEAR,\n\nWe Will ⬆️ Upload Within 24 Hours ⏳')
+            k = await query.message.edit('IF YOU DO NOT RECEIVE THE MOVIE/SERIES EVEN AFTER ENTERING THE CORRECT NAME \n\nINFORM ADMIN IN THIS FORMAT TYPE \n👉@ADMIN \nMOVIE/SERIES NAME+LANG+YEAR,\n\nWe Will ⬆️ Upload Within 24 Hours ⏳')
             await asyncio.sleep(300)
             await k.delete()
 
