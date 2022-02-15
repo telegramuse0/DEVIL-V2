@@ -127,8 +127,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit('THE MOVIE IS NOT YET RELEASED OR ADDED TO DATABASE💌 I Couldn't 🔍 Find Your Query Asked For 🤷 Click [GOOGLE] [IMDB] On Any Button And Find The Correct Movie/Series Name And Enter It Here ⤵️  If You Do Not Receive The Movie/Series Even After Entering The Correct Name Then Type @admin (Movie/Series Name+Year) Inform The Admin In This Format 👈
-We Will ⬆️ Upload Within 24 Hours ⏳')
+            k = await query.message.edit('THE MOVIE IS NOT YET RELEASED OR ADDED TO DATABASE💌 IF YOU DO NOT RECEIVE THE MOVIE/SERIES EVEN AFTER ENTERING THE CORRECT NAME THEN TYPE @ADMIN #REQUEST MOVIE/SERIES NAME+LANG+YEAR, INFORM ADMIN IN THIS FORMAT 👈 We Will ⬆️ Upload Within 24 Hours ⏳')
             await asyncio.sleep(10)
             await k.delete()
 
