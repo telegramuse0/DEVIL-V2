@@ -6,7 +6,7 @@ ADVERT MEDIA BOT
 # 𝙲𝙻𝙸𝙲𝙺 𝙱𝙴𝙻𝙾𝚆 𝙸𝙼𝙰𝙶𝙴 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 👇
 
 
-[![Deploy](https://telegra.ph/file/02c798ec0f655dcc3dd95.jpg)](https://heroku.com/deploy?template=https://github.com/Samantha-a/DEVIL-V2)
+[![Deploy](https://telegra.ph/file/87173560c78243e6e626a.jpg)](https://heroku.com/deploy?template=https://github.com/Samantha-a/DEVIL-V2)
 
 - [x] Auto Filter
 - [x] Manuel Filter
